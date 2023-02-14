@@ -13,7 +13,7 @@
                     <th>Darajo</th>
                     <th>Fasalka</th>
                 </tr>
-                <tr>
+                
                     <td> WINDOW 10</td>
                    
                     <td> 85
@@ -30,7 +30,7 @@
                     <td> COMPUTER
                     </td>
                 </tr>
-               
+                <tr>
                     <td> M-S EXCEL </td>
                     <td>Lama Hayo  
                         <td> Z
@@ -39,17 +39,17 @@
                     </td>
                 </tr>
                
-                    
+                <tr>
                         <td>M-S POWER POINT </td>
                         <td>Lama hayo</td>
                         <td> Z
                         <td> COMPUTER
                         </td>
                     </tr>
-                   
+                    <tr>
                         <td> SECURITY</td>
                         <td>Lama Hayo</td>
                         <td> Z
                         <td> COMPUTER
                         </td>
-                   
+                    </tr>
