@@ -13,7 +13,7 @@
                     <th>Darajo</th>
                     <th>Fasalka</th>
                 </tr>
-                
+                <tr>
                     <td> WINDOW 10</td>
                    
                     <td> 85
